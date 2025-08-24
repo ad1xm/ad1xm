@@ -1,12 +1,15 @@
-#  Hi , I'm Aditya Choudhury
-**A passionate Cloud Engineer || DevOps Engineer**
+# Hey there! 👋
 
-Email Me✉️ **thenexusadi@gmail.com** For Collaboration/Project or Anything Else.
+**I'm Aditya Choudhury**  
+Full-Stack Coder | Problem Solver | Growth-Driven
 
-- 🔭 **I’m currently working on:** Startup Oryxen
-- 🌱 **I’m currently learning:** Ai database training
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** thenexuadi@gmail.com
+📬 Let’s build something great — [thenexusadi@gmail.com](mailto:thenexusadi@gmail.com)
+
+🚀 Currently shaping: **Startup Oryxen**  
+🧠 Mastering: AI-powered databases & some seriously supercool code wizardry  
+💡 Ask me about: Coding challenges, collaboration, tech innovation  
+📩 Always open to connect: [thenexusadi@gmail.com](mailto:thenexusadi@gmail.com)
+
 
 
 ## 🌐 Socials:
